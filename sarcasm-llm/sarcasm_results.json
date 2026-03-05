@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Solange alle ihre Tiefkühlpizza und RTL haben ist doch alles super!",
+    "sarcasm": {
+      "sarcasm_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment uses ironic praise ('alles super') to downplay a serious issue about pension fairness. It implies that trivial comforts (frozen pizza and RTL) make the situation tolerable, which signals sarcasm through mockery and downplaying the broader problem.",
+      "sarcasm_markers": [
+        "irony",
+        "mocking tone",
+        "downplaying serious issue via trivial pleasures"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Ich bin schockiert.",
+    "sarcasm": {
+      "sarcasm_score": "1",
+      "confidence_score": "5",
+      "justification": "The comment 'Ich bin schockiert.' is a straightforward expression of emotion (shock) without irony, mocking, or exaggeration. It does not display common sarcasm markers.",
+      "sarcasm_markers": []
+    }
+  },
+  {
+    "id": 3,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Würden sich die babyboomer zu Tode arbeiten, bräuchte man ihnen keine Rente mehr zahlen",
+    "sarcasm": {
+      "sarcasm_score": 5,
+      "confidence_score": 4,
+      "justification": "The comment uses extreme hyperbole to mock the idea of paying pensions by implying that baby boomers should be worked to death so pensions are unnecessary. It targets a demographic group (older people) with a demeaning, sarcastic premise about pension fairness.",
+      "sarcasm_markers": [
+        "extreme hyperbole",
+        "age-based group insult",
+        "sarcastic suggestion of eliminating pensions",
+        "ridiculing fairness of pension system"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Auf den Schreck erstmal eine Rentenerhöhung.",
+    "sarcasm": {
+      "sarcasm_score": 4,
+      "confidence_score": 4,
+      "justification": "The line uses irony to mock the idea that a simple policy fix (a pension increase) could calm fears about fairness in pensions. The phrase 'Auf den Schreck' signals sarcasm, turning a serious issue into a humorous, self-deprecating jab at policy responses.",
+      "sarcasm_markers": [
+        "irony",
+        "sarcastic humor",
+        "satire",
+        "commentary on policy response"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Finde den Generationen-Vertrag an sich schon dämlich. Will meine eigenen Rente auffüllen und nicht die von anderen.",
+    "sarcasm": {
+      "sarcasm_score": "1",
+      "confidence_score": "4",
+      "justification": "The comment expresses a straightforward opinion criticizing the concept ('dämlich') and states a personal goal without employing irony, mockery, or rhetorical devices typically associated with sarcasm. The tone is opinionated rather than sarcastic.",
+      "sarcasm_markers": []
+    }
+  }
+]
