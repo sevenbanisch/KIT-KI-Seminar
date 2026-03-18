@@ -1,0 +1,837 @@
+[
+  {
+    "id": 1,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Solange alle ihre Tiefkühlpizza und RTL haben ist doch alles super!",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "Die wörtliche Behauptung 'Solange alle ihre Tiefkühlpizza und RTL haben ist doch alles super!' wirkt sarkastisch. Im Kontext der Debatte über Rentenungleichheit wird hier implizit kritisiert, dass Konsumkultur (Fernsehen/Bequemlichkeit) als Ablenkung dient und echte soziale Probleme ignoriert werden. Die Diskrepanz zwischen einer scheinbar positiven Aussage und dem zugrunde liegenden kritischen Ton kennzeichnet Ironie.",
+      "irony_markers": [
+        "sarcasm",
+        "critiques media/consumerism",
+        "hyperbole",
+        "discrepancy between literal and intended meaning"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Ich bin schockiert.",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment 'Ich bin schockiert.' is a direct expression of emotion in response to a surprising statistic. There is no apparent discrepancy between literal meaning and intended meaning, nor any marker of irony; it reads as sincere astonishment.",
+      "irony_markers": [
+        "literal expression of emotion",
+        "no explicit irony cue"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Würden sich die babyboomer zu Tode arbeiten, bräuchte man ihnen keine Rente mehr zahlen",
+    "irony": {
+      "irony_score": "4",
+      "confidence_score": "4",
+      "justification": "The comment uses a hyperbolic, sarcastic statement implying that older generations should 'work themselves to death' so they won’t receive a pension. This is not a literal plan but a rhetorical exaggeration aimed at criticizing pension fairness and elder privilege, indicating intended meaning differs from the literal words.",
+      "irony_markers": [
+        "sarcasm",
+        "hyperbole",
+        "ageism"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Auf den Schreck erstmal eine Rentenerhöhung.",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment leverages the idiom 'Auf den Schreck' to imply a knee-jerk, cynical policy response (a pension increase) to calm fears. The literal phrasing would suggest simply increasing pensions, but the intended meaning is a sarcastic critique of politicians offering more pensions as a quick fix, revealing irony through a gap between literal words and intended critique.",
+      "irony_markers": [
+        "idiom: Auf den Schreck",
+        "sarcastic/political cynicism",
+        "short punchline"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Finde den Generationen-Vertrag an sich schon dämlich. Will meine eigenen Rente auffüllen und nicht die von anderen.",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment expresses a literal opinion that the 'Generationen-Vertrag' is stupid and a personal desire to fund one's own pension rather than others'. There is no stated or implied discrepancy between literal and intended meaning; it reads as a direct, self-centered critique rather than irony.",
+      "irony_markers": [
+        "no irony markers detected; literal stance"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "thread_title": "Solarbranche: Reiche-Pläne gefährden Zehntausende Jobs",
+    "comment": "ist ja nicht so als wären es jobs in der automobilindustrie also warum die aufregung",
+    "irony": {
+      "irony_score": 2,
+      "confidence_score": 3,
+      "justification": "The comment presents a dismissive framing: 'it's not as if these are jobs in the automotive industry, so why the fuss.' It reads as a downplay or mild sarcasm, but does not clearly express the opposite of its literal claim. The intended meaning, if any, is not strongly divergent from the surface reading.",
+      "irony_markers": [
+        "ist ja nicht so als wären es jobs in der automobilindustrie",
+        "also warum die aufregung"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "thread_title": "Solarbranche: Reiche-Pläne gefährden Zehntausende Jobs",
+    "comment": "Leute alles gut. Laut der Eu Präsidentin kriegen wir bald eh alle kleine Mini Akws und dann jeder seinen eigenen Atompilz im Keller",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The commenter mocks a claim attributed to the EU president by presenting it in an exaggerated and fantastical way (mini nuclear reactors for everyone, each with a mushroom cloud in the basement). The tone is clearly non-literal and intended to criticize or ridicule the idea, relying on contrast between the stated claim and the implausible, absurd imagery.",
+      "irony_markers": [
+        "sarcasm",
+        "hyperbole",
+        "absurd imagery",
+        "ridicule",
+        "satire"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "thread_title": "Solarbranche: Reiche-Pläne gefährden Zehntausende Jobs",
+    "comment": "Die Öl&Gas Lobby macht halt n guten Job und die Reiche ist dankbares Opfer!",
+    "irony": {
+      "irony_score": "4",
+      "confidence_score": "4",
+      "justification": "The comment mixes apparent praise ('macht halt n guten Job') for the oil & gas lobby with an ironic claim that 'die Reichen' sind 'dankbares Opfer' (grateful victims). The juxtaposition and the use of 'Opfer' in a mocking, self-contradictory way suggest the literal meaning is not the intended one; it appears to mock/lampoon the involved actors, a hallmark of irony in political discourse.",
+      "irony_markers": [
+        "sarcasm",
+        "contrast between literal and intended meaning",
+        "paradoxical victimhood",
+        "satire"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "thread_title": "Solarbranche: Reiche-Pläne gefährden Zehntausende Jobs",
+    "comment": "Vergeht denn kein Tag wo dieser Roboter keine Dummheit macht",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment expresses frustration about a robot's repeated 'Dummheit' using a rhetorical question. The literal meaning matches the intended negative assessment (the robot is stupid, or makes mistakes frequently). There is no deliberate contrast between literal and intended meanings that would constitute irony. It reads as sarcasm/hyperbole rather than irony.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 10,
+    "thread_title": "Ölkonzerne klagen gegen Untersuchung durch Bundeskartellamt",
+    "comment": "Wer Probleme mit niedrigem Blutdruck hat, sollte den Artikel lesen. Dann pumpt es wieder ordentlich.",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment uses a health metaphor about low blood pressure and the pumping of blood to comment on the oil-industry news. Literally it invokes medical imagery, but the intended meaning is that reading the article will provoke anger or arouse strong emotion (raise the reader's blood pressure) about the oil companies’ lawsuit, which is an ironic inversion of the literal medical claim.",
+      "irony_markers": [
+        "low blood pressure",
+        "pumping metaphor",
+        "sarcasm",
+        "discrepancy between literal and intended meaning"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "thread_title": "Ölkonzerne klagen gegen Untersuchung durch Bundeskartellamt",
+    "comment": "tankstellen müssten doch eigentlich gut brennen",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The literal sentence 'tankstellen müssten doch eigentlich gut brennen' presents a violent image. In the context of a thread about oil companies and an antitrust investigation, the remark is likely a hyperbolic, sarcastic way to condemn the oil industry rather than a literal wish for harm, signaling irony through a discrepancy between literal meaning and intended critical message.",
+      "irony_markers": [
+        "sarcasm",
+        "hyperbole",
+        "violent imagery",
+        "contextual irony"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "thread_title": "Ölkonzerne klagen gegen Untersuchung durch Bundeskartellamt",
+    "comment": "Ich würde gerne ein Reenactment der französischen Revolution veranstalten, mit Konzernchefs in der Rolle der Adligen.",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment uses a hyperbolic, satirical suggestion to stage a French Revolution-style reenactment with corporate bosses cast as nobles, implying critique of oil executives and the modern power structure rather than making a literal proposal. The language relies on historical analogy to create a discrepancy between literal content (a reenactment idea) and intended critique of elites.",
+      "irony_markers": [
+        "historical analogy",
+        "satire",
+        "hyperbole",
+        "metaphor"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "thread_title": "Volkswagen: McKinsey soll Schließung fast aller deutschen Werke empfehlen",
+    "comment": "Diese drecks Unternehmensberater Firmen sind auch so Parasiten der Gesellschaft ohne jeglichen Mehrwert",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 5,
+      "justification": "The comment explicitly condemns management consultants as parasites of society with no added value. There is no evident discrepancy between the literal meaning and an intended opposite meaning; it reads as a straightforward insult rather than sarcasm or irony.",
+      "irony_markers": [
+        "direct insult",
+        "no irony detected"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "thread_title": "Volkswagen: McKinsey soll Schließung fast aller deutschen Werke empfehlen",
+    "comment": "Empfehle die Schließung aller Deutschen McKinsey Zweigstellen",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment presents a direct imperative to close all German McKinsey branch offices. There is no evident distance between the literal meaning and an implied or sarcastic meaning, nor any inversion or contradiction typical of irony.",
+      "irony_markers": [
+        "literal imperative",
+        "no sarcasm detected",
+        "no irony detected"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "thread_title": "Volkswagen: McKinsey soll Schließung fast aller deutschen Werke empfehlen",
+    "comment": "Was die dann an personalkosten sparen können sich die Manager wieder als Boni auszahlen lassen",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment expresses a cynical view that savings from reduced personnel costs will simply be turned into executives' bonuses, but it does not rely on a non-literal or contrasting meaning; it reads as a straightforward critique rather than irony.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 16,
+    "thread_title": "\"Nur einmal am Tag erhöhen? Kein Problem!\" – Tankstellen starten morgens mit 10 Euro pro Liter",
+    "comment": "Tankstellen kaufen neue Anzeigetafeln, um zweistellige Euro-Preise anzeigen zu können",
+    "irony": {
+      "irony_score": 2,
+      "confidence_score": 4,
+      "justification": "The comment offers a straightforward factual claim about gas stations upgrading signage to display higher prices. It does not clearly employ a deliberate mismatch between literal and intended meaning, nor does it use sarcastic phrasing or explicit irony markers. It aligns with the thread's price-inflation theme but reads as a plain observation rather than ironic.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 17,
+    "thread_title": "\"Nur einmal am Tag erhöhen? Kein Problem!\" – Tankstellen starten morgens mit 10 Euro pro Liter",
+    "comment": "Jetzt mal im Ernst: Warum nur das Erhöhen einschränken? Wäre es nicht viel sinnvoller, wenn der Preis über den Tag gleich bleiben muss?",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment uses 'Jetzt mal im Ernst' and a rhetorical question about policy to mock the idea of restricting price increases, implying the opposite of a pragmatic stance and signaling sarcasm.",
+      "irony_markers": [
+        "Jetzt mal im Ernst",
+        "rhetorical question",
+        "sarcastic suggestion that price should stay constant"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "thread_title": "Um künftige Schmutzkampagnen auszuschließen: Union will Verbreitung von Originalclips ihrer Kandidaten verbieten",
+    "comment": "Ich glaube die CDU würde ohne Kandidaten mehr Stimmen bekommen",
+    "irony": {
+      "irony_score": "5",
+      "confidence_score": "4",
+      "justification": "The literal claim 'Die CDU würde ohne Kandidaten mehr Stimmen bekommen' is intentionally nonsensical in a real election (parties need candidates to receive votes). This mismatch between literal meaning and intended message signals irony, likely as sarcasm to criticize the CDU.",
+      "irony_markers": [
+        "contradiction between literal and intended meaning",
+        "sarcasm",
+        "hyperbole"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "thread_title": "Um künftige Schmutzkampagnen auszuschließen: Union will Verbreitung von Originalclips ihrer Kandidaten verbieten",
+    "comment": "man muss sie vor sich selbst schützen.",
+    "irony": {
+      "irony_score": "4",
+      "confidence_score": "4",
+      "justification": "The comment employs a common ironic framing: 'one must protect them from themselves' suggests the subject (the Union or its candidates) are self-sabotaging or lacking in judgment, implying a discrepancy between literal phrasing and intended criticism. In the context of a discussion about banning original clips, this reads as mocking or skeptical rather than a straightforward supportive statement.",
+      "irony_markers": [
+        "sarcasm",
+        "mocking tone",
+        "paternalistic irony"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "thread_title": "Straße von Hormus zu: Öltanker weichen auf Fahrradweg von Hormus aus",
+    "comment": "Sehr vernünftig. Aber ich hoffe, sie halten trotzdem den 1,5 Meter Sicherheitsabstand zu Radfahrern.",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment uses ironic praise: saying 'Sehr vernünftig' about oil tankers veering onto a bicycle path contradicts reality and signals sarcasm. The subsequent clause 'Aber ich hoffe, sie halten trotzdem den 1,5 Meter Sicherheitsabstand zu Radfahrern' reinforces the irony by presenting a safety expectation in a context where the action is clearly reckless, highlighting a discrepancy between literal meaning and intended meaning.",
+      "irony_markers": [
+        "Sehr vernünftig",
+        "Aber",
+        "1,5 Meter Sicherheitsabstand zu Radfahrern"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "thread_title": "Straße von Hormus zu: Öltanker weichen auf Fahrradweg von Hormus aus",
+    "comment": "Kommen dann aber leider nicht weiter, weil ein Auto \"nur mal kurz\" auf dem Radweg parkt.",
+    "irony": {
+      "irony_score": 2,
+      "confidence_score": 3,
+      "justification": "The comment describes a concrete obstruction caused by a car parking on a bike path and frames it as unfortunate, with the quoted phrase 'nur mal kurz' suggesting a dismissive justification. This points to mild irony, as there is a possible discrepancy between the claimed short duration and the impact on others, but the overall tone is primarily observational rather than overtly ironic.",
+      "irony_markers": [
+        "quoted phrase 'nur mal kurz'",
+        "possible sarcasm"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "thread_title": "Plötzlich Facebook-Lobbyistin: Irlands einst höchste Datenschützerin wechselt die Seite",
+    "comment": "Von Datenschutz zu Datenschmutz/s",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment relies on a deliberate wordplay contrast between 'Datenschutz' (data protection) and 'Datenschmutz' (data dirt/filth) to critique the shift from protecting data to lobbying for Facebook. This creates a discrepancy between the literal phrasing and the intended critical meaning, signaling irony through pun and negative framing of the subject.",
+      "irony_markers": [
+        "pun/wordplay contrasting terms",
+        "sarcastic critique",
+        "negative framing of the subject"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "thread_title": "Plötzlich Facebook-Lobbyistin: Irlands einst höchste Datenschützerin wechselt die Seite",
+    "comment": "Sowas sollte sofort die Verdachtsannahme von Korruption, Amtsmissbrauch und ggf. Hochverrat begründen",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment makes a direct, normative accusation (corruption, abuse of office, potentially treason) without any explicit markers of irony, sarcasm, or mocking tone. There is no evident discrepancy between the literal meaning and an intended ironic meaning; it reads as a serious objection rather than a sarcastic remark.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 24,
+    "thread_title": "15-Jähriger fährt Freundin mit gestohlenem Linienbus zur Schule",
+    "comment": "Princess Treatment oder Bare Minimum?",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment is a neutral, rhetorical question comparing two possible levels of treatment. It does not express a opposite meaning to its literal content and lacks explicit irony markers (sarcasm, contradiction, or mocking tone).",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 25,
+    "thread_title": "15-Jähriger fährt Freundin mit gestohlenem Linienbus zur Schule",
+    "comment": "Also wenn ich die Freundin wäre, ich hätte den auf der Stelle geheiratet, lmao.",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The speaker uses hyperbole and humor to comment on a sensational, illegal act (a 15-year-old driving a stolen bus). Saying they would 'marry him on the spot' is an exaggerated compliment that is unlikely to be literal; the 'lmao' signals a sarcastic, non-literal tone. This creates a discrepancy between the literal phrase and the intended meaning (irony).",
+      "irony_markers": [
+        "lmao",
+        "hyperbole / exaggeration",
+        "sarcasm",
+        "ironic praise of criminal act"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "thread_title": "15-Jähriger fährt Freundin mit gestohlenem Linienbus zur Schule",
+    "comment": "Der kriegt bald Jobangebote.",
+    "irony": {
+      "irony_score": "4",
+      "confidence_score": "4",
+      "justification": "The literal claim that a minor who stole a bus will receive job offers is implausible and reads as mocking the situation. The statement relies on a discrepancy between the wrongdoing (stealing a bus) and an improbably positive outcome (getting job offers), suggesting sarcasm rather than a sincere prediction.",
+      "irony_markers": [
+        "sarcasm",
+        "mocking tone",
+        "incongruity",
+        "hyperbole"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "thread_title": "15-Jähriger fährt Freundin mit gestohlenem Linienbus zur Schule",
+    "comment": "Das ganze flog auf, weil der Bus pünktlich kam.",
+    "irony": {
+      "irony_score": 2,
+      "confidence_score": 3,
+      "justification": "The line uses a dry, understated tone to note that the whole affair 'flew auf' (came to light) because the bus arrived on time. This relies on a contrast between an expected serious reveal and a mundane fact (bus punctuality), suggesting subtle irony rather than explicit sarcasm.",
+      "irony_markers": [
+        "deadpan/understatement",
+        "contradiction between seriousness and mundane fact",
+        "implied sarcasm about punctuality revealing wrongdoing"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "thread_title": "15-Jähriger fährt Freundin mit gestohlenem Linienbus zur Schule",
+    "comment": "Da nimmt man mal die Öffis, ist es auch wieder nicht Recht.",
+    "irony": {
+      "irony_score": "2",
+      "confidence_score": "3",
+      "justification": "The line uses casual phrasing to imply that taking public transport would also be ‘not right,’ in the context of a stolen bus. The literal claim is that public transit isn’t correct, but the tone hints at sarcasm about moral judgments, suggesting mild irony rather than a sincere condemnation.",
+      "irony_markers": [
+        "sarcasm",
+        "mocking moral judgment",
+        "discrepancy between surface meaning and intended meaning"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "thread_title": "Landtagswahl Baden-Württemberg: Cem Özdemir lehnt Teilung der Amtszeit des Ministerpräsidenten ab",
+    "comment": "Ist ja auch ne dämliche Idee. Gewonnen ist gewonnen. Punkt.",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment presents a direct critique of the idea ('Ist ja auch ne dämliche Idee') and asserts a straightforward conclusion ('Gewonnen ist gewonnen. Punkt.'). There is no evident mismatch between literal and intended meaning, nor obvious sarcasm or inversion.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 30,
+    "thread_title": "Landtagswahl Baden-Württemberg: Cem Özdemir lehnt Teilung der Amtszeit des Ministerpräsidenten ab",
+    "comment": "Eigentlich eine Schande sowas auch nur vorzuschlagen.",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 5,
+      "justification": "The comment states that proposing the measure is 'a shame' and condemns it. There is a direct expression of disapproval with no evident discrepancy between literal and intended meaning, nor sarcastic cues or contradictions that would indicate irony.",
+      "irony_markers": [
+        "no explicit irony markers; straightforward condemnation"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "thread_title": "VW gerettet! Konzern feuert alle Arbeiter und behält nur noch den Vorstand",
+    "comment": "Wenn du härter arbeitest, kannst auch du von einem überbezahlten Manager gefeuert werden",
+    "irony": {
+      "irony_score": "4",
+      "confidence_score": "4",
+      "justification": "The literal statement suggests that working harder could lead to being fired by an overpaid manager, which flips the expected cause-and-effect (hard work leads to advancement). The intended meaning is a cynical critique of corporate power and job insecurity, using sarcasm to highlight unfairness of management practices.",
+      "irony_markers": [
+        "discrepancy between literal and intended meaning",
+        "sarcasm",
+        "critical tone toward management"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "thread_title": "VW gerettet! Konzern feuert alle Arbeiter und behält nur noch den Vorstand",
+    "comment": "Manchmal habe ich das Gefühl, dass bestimmte Vorstände wirklich so denken ",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 3,
+      "justification": "The comment states a straightforward belief about what some boards think, without clearly employing irony or a deliberate discrepancy between literal and intended meaning. It aligns with the thread's critical premise but does not use explicit irony markers.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 33,
+    "thread_title": "VW gerettet! Konzern feuert alle Arbeiter und behält nur noch den Vorstand",
+    "comment": "Unironisch könnte man viele Konzerne retten, wenn man einfach den Vorstand rauswerfen würde.",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The commenter suggests removing the board as a simple cure for corporate ills, which is a hyperbolic and reductive solution typical of irony/sarcasm. The explicit cue 'Unironisch' can be read as self-aware irony, implying that the speaker may be using sarcasm to critique management. Given the thread context about firing workers while keeping the board, the statement functions as a critique of executive leadership rather than a literal policy proposal.",
+      "irony_markers": [
+        "Explicit irony cue: 'Unironisch'",
+        "board as scapegoat",
+        "oversimplified solution"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "thread_title": "Wie Jeffrey Epstein offenbar mit Steuern trickste ",
+    "comment": "Manchmal machen auch die besten Menschen wohl mal einen Fehler. ",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 3,
+      "justification": "The comment uses a common, straightforward statement acknowledging human fallibility. There is no clear intentional discrepancy between literal and intended meaning, no sarcasm, exaggeration, or inversion typical of irony in this short line.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 35,
+    "thread_title": "Wie Jeffrey Epstein offenbar mit Steuern trickste",
+    "comment": "Der Mann war auch schon vorher ein Monster…aber das geht jetzt endgültig zu weit!!!!",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 5,
+      "justification": "The commenter expresses a straightforward moral condemnation of Epstein, calling him a monster and asserting that the situation has gone too far. There is no stated or implied discrepancy between literal and intended meaning, nor any linguistic markers typically used to convey irony.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 36,
+    "thread_title": "Wie Jeffrey Epstein offenbar mit Steuern trickste",
+    "comment": "Paradebeispiel für schlechten \"Journalismus\"",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "Der Kommentar 'Paradebeispiel für schlechten \"Journalismus\"' ist eine direkte, standardkritische Aussage. Es gibt keinen erkennbaren Widerspruch zwischen wörtlicher Bedeutung und beabsichtigter Bedeutung; die Anführungszeichen um Journalismus deuten höchstens Skepsis, nicht Ironie. Daher eher nicht ironisch.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 37,
+    "thread_title": "Mehr als 600 000 Menschen traten 2025 aus der Kirche aus",
+    "comment": "Endlich mal gute Nachrichten.",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 5,
+      "justification": "The comment expresses a straightforward positive reaction: 'Endlich mal gute Nachrichten.' It does not show any linguistic cues typical of irony (no sarcasm, negation, or ridicule) regarding the news that many people left the church. Thus, no irony is detected.",
+      "irony_markers": [
+        "positive sentiment",
+        "no sarcasm markers",
+        "literal meaning aligns with intended meaning"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "thread_title": "Mehr als 600 000 Menschen traten 2025 aus der Kirche aus",
+    "comment": "Netflix ist als nächstes dran …",
+    "irony": {
+      "irony_score": 2,
+      "confidence_score": 3,
+      "justification": "Die Aussage 'Netflix ist als nächstes dran …' verwendet eine Ellipse und zieht implizit eine Parallele zwischen der realen Entwicklung, dass Menschen die Kirche verlassen, und Netflix. Sie vermittelt damit eine vage Ironie: Netflix wird als nächster Kandidat für eine ähnliche Abwanderung dargestellt, ohne dies wörtlich zu behaupten. Die Ironie ergibt sich aus der Diskrepanz zwischen dem wörtlichen Sinn (Netflix ist dran) und der impliziten Bedeutung (eine ironische Anspielung auf Subscriber-Churn).",
+      "irony_markers": [
+        "implizierte vergleichende Bezugnahme zwischen zwei verschiedenen Kontexten",
+        "ellipsis signaling ironic tone",
+        "sarcastic/humorous prediction about consumer behavior"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "thread_title": "Mehr als 600 000 Menschen traten 2025 aus der Kirche aus",
+    "comment": "Ich bin zwar nie eingetreten, aber ich würde trotzdem gern austreten.",
+    "irony": {
+      "irony_score": "4",
+      "confidence_score": "4",
+      "justification": "The comment asserts that the speaker never joined the church, yet claims they'd like to leave it. This creates a deliberate discrepancy between literal meaning and intended meaning, using a self-deprecating and humorous tone to comment on church attrition. The mismatch and playful phrasing indicate irony rather than straightforward sincerity.",
+      "irony_markers": [
+        "Diskrepanz zwischen wörtlicher Bedeutung und beabsichtigter Bedeutung",
+        "Selbstironischer/metafiktionaler Kommentar zur Situation",
+        "Absichtlicher Witz über Zugehörigkeit und Austritt"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "thread_title": "Trump spricht von „Übernahme“ Kubas",
+    "comment": "Kommen wieder Epstein files? ",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 2,
+      "justification": "The comment is a straightforward question about whether Epstein files will reappear. It does not explicitly express the opposite of its literal meaning and lacks clear irony markers (such as sarcasm or deliberate contradiction). Any conspiratorial framing is not clearly ironic in itself.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 41,
+    "thread_title": "Trump spricht von „Übernahme“ Kubas",
+    "comment": "Wie wär’s, wenn er erstmal den Krieg zu Ende bringt, den er gerade erst begonnen hat?",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment presents a direct political critique and urging action (end the war he started). There is no explicit inversion between what is said and what is meant; it does not rely on saying the opposite of what is meant to convey irony.",
+      "irony_markers": [
+        "rhetorical_question"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "thread_title": "Verdener Schülerzeitung deckt Neonazi-Netz auf – und gewinnt Landespreis",
+    "comment": "Jede Schülerzeitung ist kompetenter als die deutsche Polizei.",
+    "irony": {
+      "irony_score": "5",
+      "confidence_score": "4",
+      "justification": "The comment claims, using universal quantification ('Jede'), that 'every school newspaper is more competent than the German police.' This hyperbolic, sweeping statement contradicts literal expectations and is aimed at criticizing the police's effectiveness in light of a news story about uncovering neonazi networks, indicating sarcasm and irony rather than a factual assertion.",
+      "irony_markers": [
+        "sarcasm",
+        "hyperbole",
+        "contrast between literal and intended meaning",
+        "criticism of authorities"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "thread_title": "Immer weniger Demenzdiagnosen in Deutschland",
+    "comment": "Es gibt auch noch positive Nachrichten?",
+    "irony": {
+      "irony_score": "1",
+      "confidence_score": "3",
+      "justification": "The comment is a straightforward question asking whether there is positive news. It does not clearly express a discrepancy between literal and intended meaning, and there are no explicit irony markers.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 44,
+    "thread_title": "Längere Werbung auf Youtube lässt sich nicht überspringen",
+    "comment": "Immer wenn ich wieder auf dem mobilen Gerät versuche YT zu schauen, merke ich erst wie unerträglich das mittlerweile ist.",
+    "irony": {
+      "irony_score": "1",
+      "confidence_score": "5",
+      "justification": "Die Aussage stellt eine direkte Beschwerde über die mobile YouTube-Nutzung dar und verwendet starke Adjektive wie 'unerträglich'. Es besteht kein erkennbarer Widerspruch zwischen wörtlicher Bedeutung und beabsichtigter Bedeutung, und es fehlen Ironie-Marker (z. B. Sarkasmus, Gegenteil des Gesagten).",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 45,
+    "thread_title": " Längere Werbung auf Youtube lässt sich nicht überspringen",
+    "comment": "Und irgendwann gibs im premium youtube auch Werbung xD",
+    "irony": {
+      "irony_score": "4",
+      "confidence_score": "4",
+      "justification": "The comment jokes that YouTube Premium, which is advertised as ad-free, would someday show ads anyway. The literal claim contradicts the expected behavior of Premium and is presented with an amused tone (xD), signaling irony rather than a factual statement.",
+      "irony_markers": [
+        "sarcasm",
+        "discrepancy between literal and intended meaning",
+        "references to YouTube Premium's ad-free promise",
+        "xD emoticon indicating humor"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "thread_title": "USA laut Studie keine liberale Demokratie mehr: https://orf.at/stories/3424095/",
+    "comment": "Vermutlich hat die Redaktion jetzt eine Einreisesperre",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment treats the article about the USA not being a liberal democracy as if the US would retaliate against critics by banning the editors from entering the country. The literal sentence asserts an entry ban, but the intended meaning is a sarcastic critique of censorship and hypocrisy, i.e., irony.",
+      "irony_markers": [
+        "sarcasm",
+        "censorship critique",
+        "hypothetical consequence as joke",
+        "discrepancy between literal meaning and intended meaning"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "thread_title": "USA laut Studie keine liberale Demokratie mehr: https://orf.at/stories/3424095/",
+    "comment": "Ach wirklich? Man male mich überrascht.",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment uses a sarcastic tone to express disbelief at the thread’s claim while signaling that the speaker is not surprised by it. The question-like opener “Ach wirklich?” combined with the implied stance of being unsurprised represents a discrepancy between the literal reading and the intended meaning, which is characteristic of irony.",
+      "irony_markers": [
+        "Ach wirklich?",
+        "not surprised / I'm not surprised",
+        "sarcasm",
+        "discrepancy between literal and intended meaning"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "thread_title": "USA laut Studie keine liberale Demokratie mehr: https://orf.at/stories/3424095/",
+    "comment": "Die finden aber auch echt alles raus.",
+    "irony": {
+      "irony_score": 3,
+      "confidence_score": 3,
+      "justification": "The comment states 'They really find out everything.' The literal meaning reads as a neutral or even laudatory remark about investigative capability. In German, the use of 'aber' (but) and 'echt' (really) can signal sarcasm or skepticism, especially in a discussion about sensational or controlling claims (like the study about the USA). The lack of explicit irony markers makes the interpretation ambiguous, but the phrasing can function as ironic skepticism toward the claimed omniscience of the subject (e.g., media or researchers).",
+      "irony_markers": [
+        "sarcasm",
+        "ambiguous_implied_sarcasm",
+        "facetious_tone"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "thread_title": "EuGH: Kirchenaustritt allein reicht nicht für Kündigung",
+    "comment": "Richtig und wichtig. Kirchenrecht ist eh oft fragwürdig.",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment expresses straightforward agreement ('Richtig und wichtig') and makes a factual assertion about church law being often questionable. There is no indication of a deliberate discrepancy between literal and intended meaning or sarcastic phrasing.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 50,
+    "thread_title": "Psychotherapie: Wer hier kürzt, produziert mehr Krankheit und Leid",
+    "comment": "Wieso? Die Therapie findet jetzt doch im Jobcenter beim Betreuer statt. Die sagen einem dass man doch nicht psychisch krank ist und nur so tut, und zack ist man geheilt.",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment uses mocking language to imply therapy is outsourced to the Jobcenter, that therapists claim the patient isn’t mentally ill but merely pretending, and that this would magically cure them. The literal claim contrasts with the intended meaning (therapy is ineffective/sham), indicating irony through sarcasm and hyperbole.",
+      "irony_markers": [
+        "sarcasm",
+        "hyperbole",
+        "mocking tone",
+        "irony about therapy efficacy"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "thread_title": "Psychotherapie: Wer hier kürzt, produziert mehr Krankheit und Leid",
+    "comment": "Ja, aber ihr müsst das einfach durch die Wirtschaftskompetenzbrille der Union betrachten. Wenn man das jetzt kürzt, gibts auch weniger Diagnosen, die das Jobcenter anzweifeln muss. Was wir dadurch an Verwaltungskosten sparen werden - so große Zahlen gibts garnicht .....",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "Der Kommentar verwendet ironische Untertöne, indem er eine politische Perspektive ('Wirtschaftskompetenzbrille der Union') als vermeintliche Lösung präsentiert, diese Perspektive aber sarkastisch entlarvt. Die Behauptung, Kürzungen würden Diagnosen verringern und Verwaltungskosten sparen, wird als überzogene, nicht ernst gemeinte Kritik formuliert; die Sprache signalisiert Spott gegenüber der realen Wirkung von Kürzungen.",
+      "irony_markers": [
+        "sarcasm",
+        "mock endorsement of political frame",
+        "undermining claimed benefits",
+        "hyperbolic/insincere claim about savings"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "thread_title": "Psychotherapie: Wer hier kürzt, produziert mehr Krankheit und Leid",
+    "comment": "Sehen Sie demnächst in diesem Theater: \"Oh nein, wo kommen denn die ganzen Obdachlosen her?\"",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The comment uses a meta-theatrical cue to frame the following line as satire and presents a quoted line that mocks sensationalist rhetoric. The juxtaposition of a 'theater' frame with the alarmist question signals an irony by implying the literal reading is not the intended one.",
+      "irony_markers": [
+        "theater/metaphor for rhetoric",
+        "sarcasm",
+        "quoted line used ironically",
+        "discrepancy between literal and intended meaning"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "thread_title": "Wehrdienst: Deutlich mehr Menschen bewerben sich bei der Bundeswehr",
+    "comment": "Wenn der Arbeitsmarkt schwächelt, steigt die Attraktivität von sicheren Arbeitgebern. Ganz normale und nachvollziehbare Entwicklung eigentlich.",
+    "irony": {
+      "irony_score": "1",
+      "confidence_score": "3",
+      "justification": "The comment presents a straightforward causal link (weak job market -> more secure employers attract candidates) and ends with 'Ganz normale und nachvollziehbare Entwicklung eigentlich.' There are no explicit sarcasm cues, inverted statements, or contradictory meanings that would indicate irony; it reads as a neutral observation rather than ironic critique.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 54,
+    "thread_title": "Wehrdienst: Deutlich mehr Menschen bewerben sich bei der Bundeswehr",
+    "comment": "Also sollten wir schleunigst den Wehrdienst wieder einführen, weil freiwilligkeit offensichtlich nicht funktioniert, wenn die Anreize stimmen. Zwang ist der beste weg",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 3,
+      "justification": "The comment directly advocates reintroducing conscription and describes coercion as 'the best way.' There is no explicit linguistic cue indicating sarcasm or a deliberate gap between literal and intended meaning; the literal meaning matches the stated intent.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 55,
+    "thread_title": "EU-Einigung scheitert: Freiwillige 'Chatkontrolle' endet",
+    "comment": "Bis zum nächsten Versuch.",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment is a brief, literal statement that does not clearly express a discrepancy between literal and intended meaning. It reads as a neutral or mildly resigned remark rather than a crafted irony.",
+      "irony_markers": [
+        "neutral tone",
+        "deadpan"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "thread_title": "EU-Einigung scheitert: Freiwillige 'Chatkontrolle' endet",
+    "comment": "Für heute?",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment is a literal short question 'Für heute?' with no evident sarcasm, contrast, or deliberate mismatch between literal and intended meaning. It does not visibly employ irony markers and appears to be a genuine inquiry about timing.",
+      "irony_markers": []
+    }
+  },
+  {
+    "id": 57,
+    "thread_title": "EU-Einigung scheitert: Freiwillige 'Chatkontrolle' endet",
+    "comment": "Superheld Spongebob steht vor Berg und sagt \"Soll ich nochmal?\".png Fischbürger zu altem Fischbürger \"Wir oft müssen wir dir diese Lektion noch erteilen alter Mann!?\".jpg",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 3,
+      "justification": "The comment strings together meme-like captions (Superheld Spongebob, Fischbürger) with a line that asks 'Soll ich nochmal?' and an exaggerated 'Wir oft müssen wir dir diese Lektion noch erteilen alter Mann!?' This creates a deliberate mismatch between the literal, image-caption style and the intended meaning, which mocks the subject and uses satire to comment on a topic (EU chat control). The tone relies on parody and hyperbole, suggesting irony rather than straightforward praise or critique.",
+      "irony_markers": [
+        "meme-style captioning",
+        "repeated lesson / 'Soll ich nochmal?'",
+        "hyperbolic insult to an 'old man'",
+        "parody of authority / satire"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "thread_title": "Investitionen - Auch aus der CDU kommen Forderungen nach Aufklärungen über Verwendung des Sondervermögens",
+    "comment": "Da kann Reiche gleich die nächste Arbeitsgruppe gründen um das ganze zu veschleppen",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 4,
+      "justification": "The sentence uses sarcasm to imply that creating yet another Arbeitsgruppe would be a tactic to deliberately delay the process, criticizing bureaucratic stall tactics rather than presenting a straightforward claim.",
+      "irony_markers": [
+        "sarcasm",
+        "mocking bureaucracy",
+        "delay as a political tactic"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "thread_title": "Verschwörungs-Demo in Berlin: Xavier Naidoo singt „Dieser Weg“ – deutlich weniger Teilnehmende als angekündigt",
+    "comment": "Gab's da auch embryonal gewürzte Currywurst mit Pommes?",
+    "irony": {
+      "irony_score": 2,
+      "confidence_score": 3,
+      "justification": "The comment uses an absurd, non-literal detail ('embryonal gewürzte Currywurst') in the context of a political/demo event. The literal reading is a straightforward food question, but the odd phrase and incongruity imply humor or mockery rather than a sincere inquiry, indicating a small amount of irony through incongruity.",
+      "irony_markers": [
+        "absurd detail",
+        "deadpan question",
+        "mild sarcasm",
+        "nonsensical juxtaposition"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "thread_title": "Verschwörungs-Demo in Berlin: Xavier Naidoo singt „Dieser Weg“ – deutlich weniger Teilnehmende als angekündigt",
+    "comment": "Dieser Weg ist peinlich und leer.",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 4,
+      "justification": "The comment states a direct, literal assessment ('Dieser Weg ist peinlich und leer'), with no linguistic cues suggesting the opposite meaning or sarcasm. It appears to be a sincere critique of the demonstration.",
+      "irony_markers": []
+    }
+  }
+]
