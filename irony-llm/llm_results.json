@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Solange alle ihre Tiefkühlpizza und RTL haben ist doch alles super!",
+    "irony": {
+      "irony_score": "4",
+      "confidence_score": "4",
+      "justification": "The comment reframes a serious topic about pension fairness into a trivial happiness narrative: 'as long as everyone has their frozen pizza and RTL, everything is great.' This implies the speaker believes the issue is solved by consumer comforts, using hyperbolic praise of mundane pleasures to mock or deride the seriousness of pension fairness. The contrast between the stated happiness ('alles super') and the acknowledged problem signals irony/sarcasm.",
+      "sarcasm_markers": [
+        "mocking the seriousness of the issue",
+        "contrast between serious topic and trivial pleasures",
+        "sarcastic assertion that 'everything is great' in a problematic situation"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Ich bin schockiert.",
+    "irony": {
+      "irony_score": 1,
+      "confidence_score": 3,
+      "justification": "Der Kommentar 'Ich bin schockiert.' drückt eine direkte Überraschung aus und enthält keine erkennbaren ironischen Hinweise, Übertreibungen oder Sarkasmus. Ohne solche Markierungen wirkt er ehrlich statt ironisch.",
+      "sarcasm_markers": []
+    }
+  },
+  {
+    "id": 3,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Würden sich die babyboomer zu Tode arbeiten, bräuchte man ihnen keine Rente mehr zahlen",
+    "irony": {
+      "irony_score": "4",
+      "confidence_score": "4",
+      "justification": "The comment uses hyperbole ('zu Tode arbeiten') and inflammatory phrasing to mock the idea of pensions by proposing that older people should be worked to death so they wouldn't need pensions. This is not a literal policy proposal; it's a sarcastic, ironic critique of the fairness debate about pensions and older generations. The tone relies on exaggeration to reveal skepticism toward the stated premise.",
+      "sarcasm_markers": [
+        "hyperbole",
+        "sarcasm",
+        "ageism critique",
+        "inflammatory rhetoric"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Auf den Schreck erstmal eine Rentenerhöhung.",
+    "irony": {
+      "irony_score": 4,
+      "confidence_score": 5,
+      "justification": "Der Kommentar setzt Ironie/Sarkasmus ein: Als scheinbare Reaktion auf die wahrgenommene Ungerechtigkeit der Rentenverteilung wird eine Rentenerhöhung als sofortige, überzogene Maßnahme vorgeschlagen. Es handelt sich nicht um einen ernsthaften Politikvorschlag, sondern um einen spöttischen Kommentar.",
+      "sarcasm_markers": [
+        "sarcasm",
+        "irony",
+        "hyperbole"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "thread_title": "Mehrheit sieht ältere im Vorteil – nicht einmal ein Drittel der jungen glaubt an faire Rente",
+    "comment": "Finde den Generationen-Vertrag an sich schon dämlich. Will meine eigenen Rente auffüllen und nicht die von anderen.",
+    "irony": {
+      "irony_score": "1",
+      "confidence_score": "3",
+      "justification": "The commenter expresses a direct, non-ironic stance: they consider the generational contract 'dämlich' (stupid) and advocate for prioritizing their own pension over others'. There are no evident markers of irony or sarcasm in the language; it reads as a straightforward opinion.",
+      "sarcasm_markers": []
+    }
+  }
+]
